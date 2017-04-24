@@ -2,8 +2,8 @@
 
 Small script in Python to get wikipedia corpus by language and topic.
 
-`~$ python wikicorpus.py topics.json`
+`~$ python3 wikicorpus.py topics.json`
 
 Require wikipedia.py previously:
 
-`~$ pip install wikipedia`
+`~$ pip3 install wikipedia`

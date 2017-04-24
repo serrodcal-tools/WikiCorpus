@@ -5,7 +5,7 @@ import argparse
 import wikipedia
 from tqdm import tqdm
 
-# ~$ python wikicorpus.py topics.json
+# ~$ python3 wikicorpus.py topics.json
 
 def get_json(filename):
     file = ' '.join(list(open(filename,'r')))
